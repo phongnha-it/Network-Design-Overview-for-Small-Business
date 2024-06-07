@@ -1,6 +1,6 @@
 # Network-Design-Overview-for-Small-Business
 
-![Network Diagram](https://github.com/phongnha-it/Network-Design-Overview-for-Small-Business/network-diagram.png)
+![Network Diagram](https://github.com/phongnha-it/Network-Design-Overview-for-Small-Business/blob/main/diagram-network.png)
 
 ## Building Layout:
 
