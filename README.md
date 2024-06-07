@@ -1,5 +1,7 @@
 # Network-Design-Overview-for-Small-Business
 
+![Network Diagram](https://github.com/phongnha-it/Network-Design-Overview-for-Small-Business/network-diagram.png)
+
 ## Building Layout:
 
 ### 1.	First Floor:
