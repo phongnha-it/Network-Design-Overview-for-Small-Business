@@ -73,7 +73,7 @@ Base Network: 172.16.1.0/24
 
 ### Network Configuration for Core and MLS
 
-| Host              | Network Address | Subnet mask       | First IP      | Last IP       | Broadcast     |
+|                   | Host            | Network Address   | Subnet mask        | First IP      | Last IP       | Broadcast     |
 |-------------------|-----------------|-------------------|---------------|---------------|---------------|
 | Core1 vs MLS1     | 2               | 172.16.3.144      | 255.255.255.252 /30 | 172.16.3.145  | 172.16.3.146  | 172.16.3.147  |
 | Core1 vs MLS2     | 2               | 172.16.3.148      | 255.255.255.252 /30 | 172.16.3.149  | 172.16.3.150  | 172.16.3.151  |
